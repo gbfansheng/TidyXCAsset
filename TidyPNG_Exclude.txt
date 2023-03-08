@@ -1,0 +1,3 @@
+/path/to/exclude1
+/path/to/exclude2
+/path/to/exclude3
